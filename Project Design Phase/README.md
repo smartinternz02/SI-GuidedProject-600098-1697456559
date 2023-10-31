@@ -1,6 +1,6 @@
 ## Project Design Phase
 
-Welcome to the Design Phase of our Ship Classification Project. In this section, you'll find essential resources of our project's design.
+Welcome to the Design Phase of our Potato Disease Classification Project. In this section, you'll find essential resources of our project's design.
 
 ### Table of Contents
 
@@ -24,4 +24,4 @@ Additionally, the document features an architecture diagram to visually represen
 
 ### Data Flow Diagram
 
-The data flow diagram visually depicts how data flows within our solution, offering a clear representation of data collection, processing, and its use in potato classification and traffic management
+The data flow diagram visually depicts how data flows within our solution, offering a clear representation of data collection, processing, and its use in potato classification and crop management
