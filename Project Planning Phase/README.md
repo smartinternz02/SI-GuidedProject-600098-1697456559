@@ -1,23 +1,27 @@
-
-##Project Planning Phase
+### Project Planning Phase
 
 Welcome to the planning phase of the Potato Disease Classification Project. In this phase, we will outline the technology stack we plan to use, project details, and planning information to guide us through the project.
 
-Technology Stack 
+## Table of Contents
+## Technology Stack 
+The proposed solution comprises of:
 
-Technical Architecture: This involves the high-level design and structure of the system.
+- Technical Architecture: This involves the high-level design and structure of the system.
 
-Components & Technologies: It includes a list of essential components and technologies required for the solution.
+- Components & Technologies: It includes a list of essential components and technologies required for the solution.
 
-Application Characteristics: This section defines the system's features and sets performance expectations for potato disease classification."
+- Application Characteristics: This section defines the system's features and sets performance expectations for potato disease classification."
 
+## Project Planning Details 
 
-Sprint Schedule and Task Estimation: This breaks down the project into sprints and efficiently allocates tasks from the product backlog with resource estimations.
+The Project Planning Details comprises of:
 
-Velocity & Burndown Chart: These visual tools represent team productivity and the remaining workload, helping to track project progress.
+- Sprint Schedule and Task Estimation: This breaks down the project into sprints and efficiently allocates tasks from the product backlog with resource estimations.
 
-Board Section: This provides a visual overview of tasks in various states, such as in progress, completed, and pending, on the project board.
+- Velocity & Burndown Chart: These visual tools represent team productivity and the remaining workload, helping to track project progress.
 
-Backlog Section: This section explains how tasks are prioritized and integrated into the sprint schedule.
+- Board Section: This provides a visual overview of tasks in various states, such as in progress, completed, and pending, on the project board.
 
-Timeline: It summarizes project milestones, sprint dates, major deadlines, and release dates related to potato disease classification."
+- Backlog Section: This section explains how tasks are prioritized and integrated into the sprint schedule.
+
+- Timeline: It summarizes project milestones, sprint dates, major deadlines, and release dates related to potato disease classification."
