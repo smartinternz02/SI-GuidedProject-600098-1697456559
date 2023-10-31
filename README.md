@@ -11,7 +11,7 @@ The Potato Disease Classification aims to develop a machine learning model that 
 
 ## Project Phases
 
-#### 1. Ideation Phase
+### 1. Ideation Phase
 
 In this initial phase, our focus will be on brainstorming and gaining insights into the project. We will make use of two essential tools:
 
@@ -21,7 +21,7 @@ The Empathy Map Canvas will enable us to gain deep insights into the perspective
 #### Brainstorming Map: 
 The Brainstorming Map will function as a central point for creative thinking, allowing us to explore a wide array of ideas and strategies for the Potato Disease Classification Project.
 
-#### 2. Design Phase
+### 2. Design Phase
 In the Design Phase, we will craft a blueprint for our potato disease classification solution. This phase encompasses the following critical elements:
 
 #### Proposed Solution: 
@@ -33,7 +33,7 @@ We will design the technical architecture of our potato disease classification s
 #### Data Flow Diagram: 
 A data flow diagram will depict how data collection, processing, and input into the machine learning model will take place. It will showcase data sources, data processing steps, and the model training and evaluation processes.
 
-#### 3. Planning Phase
+### 3. Planning Phase
 In the Planning Phase, we will create a plan for our potato disease classification model. This phase will encompass the following key components:
 
 #### Technology Stack: 
