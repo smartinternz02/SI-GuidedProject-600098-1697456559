@@ -1,9 +1,9 @@
-### Project Planning Phase
+## Project Planning Phase
 
 Welcome to the planning phase of the Potato Disease Classification Project. In this phase, we will outline the technology stack we plan to use, project details, and planning information to guide us through the project.
 
-## Table of Contents
-## Technology Stack 
+### Table of Contents
+### Technology Stack 
 The proposed solution comprises of:
 
 - Technical Architecture: This involves the high-level design and structure of the system.
@@ -12,7 +12,7 @@ The proposed solution comprises of:
 
 - Application Characteristics: This section defines the system's features and sets performance expectations for potato disease classification."
 
-## Project Planning Details 
+### Project Planning Details 
 
 The Project Planning Details comprises of:
 
