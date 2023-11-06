@@ -28,4 +28,4 @@ The Project Planning Details comprises of:
 
 - Timeline: It summarizes project milestones, sprint dates, major deadlines, and release dates related to potato disease classification."
 
-Project Planning Details Drive Link: https://drive.google.com/file/d/1K4gIQL-FwCWQkkQgZE5ix3-ig0Rr2CXU/view?usp=sharing
+Project Planning Details Drive Link: https://drive.google.com/file/d/1vTpT1OxIa3hVERRpSVxdqGcxxS14kLwS/view?usp=sharing
