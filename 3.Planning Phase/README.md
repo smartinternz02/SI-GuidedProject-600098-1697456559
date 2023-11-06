@@ -12,6 +12,8 @@ The proposed solution comprises of:
 
 - Application Characteristics: This section defines the system's features and sets performance expectations for potato disease classification."
 
+Technology Stack Drive Link: https://drive.google.com/file/d/1K4gIQL-FwCWQkkQgZE5ix3-ig0Rr2CXU/view?usp=sharing
+
 ### Project Planning Details 
 
 The Project Planning Details comprises of:
@@ -25,3 +27,5 @@ The Project Planning Details comprises of:
 - Backlog Section: This section explains how tasks are prioritized and integrated into the sprint schedule.
 
 - Timeline: It summarizes project milestones, sprint dates, major deadlines, and release dates related to potato disease classification."
+
+Project Planning Details Drive Link: https://drive.google.com/file/d/1K4gIQL-FwCWQkkQgZE5ix3-ig0Rr2CXU/view?usp=sharing
