@@ -24,7 +24,7 @@ Building a Flask Application for Potato Disease Classification
 
 - Details the process of developing a Flask-based web application and creating an HTML page to deploy the potato disease classification model, ensuring practical usability and accessibility.
 
-Project Manual Drive Link: https://drive.google.com/file/d/1AkiV68x5hBOSZele6M1YJV9FaYuz_-ia/view?usp=sharing
+Project Manual Drive Link: https://drive.google.com/file/d/1qRsFPKcJqtsEBrh5k4f8tf9aIMXVw4O-/view?usp=sharing
 
 Use this resource to effectively plan and manage the development phase of the Potato Classification Project. Good luck, and let's build a successful Potato classification system.
 
