@@ -41,3 +41,22 @@ In this phase, we will define the technology stack for the potato disease classi
 
 #### Project Planning Details: 
 This section will focus on the planning aspects of the project, including the product backlog, sprint schedule, project tracker, velocity and burndown chart, board section, backlog section, and project timeline.
+
+
+### 4. Development Phase
+In the Development Phase, we will actively implement the potato classification model, building on the plan created during the Planning Phase. This phase encompasses the following key elements:
+
+#### Project Manual
+A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
+
+### 5. Performance and Final Submission Phase
+
+In the Performance and Final Submission Phases, we assess and refine the potato classification model developed in the previous phase. Our goal is to validate its performance and create a detailed report for the final submission.
+
+#### Solution Performance
+The Solution Performance is a document that includes a summary of the model and its accuracy, encompassing both training and validation results.
+
+#### Project Documentation
+This comprehensive set of records includes details regarding data collection, deep learning model development, evaluation metrics, code, user interfaces, and deployment procedures. It serves as a vital reference for project stakeholders, offering support for troubleshooting, future maintenance, and the transfer of knowledge.
+
+Thank you for your hard work and dedication. Your commitment has brought us here, and success is on the horizon. Best of luck as we move forward!
