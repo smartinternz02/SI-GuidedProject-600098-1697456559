@@ -3,6 +3,22 @@
 Welcome to the development phase of the Potato Classification Project. In this phase, we will focus on building and implementing the Potato classification system based on the planning details outlined in the planning phase.
 
 ### Table of Contents
+
+Development Phase
+Within the Development Phase, we will actively progress with the implementation of the potato disease classification model, building upon the blueprint formulated during the Planning Phase. This phase encompasses the following crucial elements:
+
+### Dataset
+This section showcases images of various potato diseases, such as early blight, late blight,and healthly. These images are fundamental to our project, serving for classification, analysis, and visualization purposes. They are categorized by disease type for convenient accessibility and utilization in development, testing, and related project activities.
+
+### Potato Disease Classification Jupyter Notebook
+The Jupyter Notebook contains code and guidelines for the deep learning-based classification of potato diseases. It covers different disease categories using image data. The notebook incorporates code snippets, explanations, and visual aids to assist users in creating and training potato disease classification models.
+
+Potato Disease Classification Jupyter Notebook Drive Link: https://drive.google.com/file/d/1UiFtWxk5U2ZYYhEl8tft5WP5Mv1qUdhy/view?usp=sharing
+
+### Flask Source Code
+Here, you will find the Flask source code for the "Potato Disease Classification Project." This code includes route definitions, view functions, HTML templates, and Flask configurations. It is indispensable for comprehending how Flask powers the project's web application.
+
+
 ### Project Manual
 
 The Project Manual serves as a foundational document for the Potato Disease Classification Project, offering clear objectives, methodologies, and best practices. It establishes roles and responsibilities, ensuring a systematic approach and fostering a shared vision for the successful development of a potato disease classification system.
