@@ -1,5 +1,7 @@
 # Potato Disease Classification
 
+Project Demo Video Drive Link: https://drive.google.com/file/d/1hnF6w1YgRrTLm2VuHH6EiiWiuCZrS9W5/view?usp=sharing
+
 ## Overview
 
 The Potato Disease Classification aims to develop a machine learning model that can accurately classify different types of diseases based on their visual features. This project is a part of our commitment to advancing computer vision and machine learning techniques. 
@@ -58,5 +60,6 @@ The Solution Performance is a document that includes a summary of the model and 
 
 #### Project Documentation
 This comprehensive set of records includes details regarding data collection, deep learning model development, evaluation metrics, code, user interfaces, and deployment procedures. It serves as a vital reference for project stakeholders, offering support for troubleshooting, future maintenance, and the transfer of knowledge.
+
 
 Thank you for your hard work and dedication. Your commitment has brought us here, and success is on the horizon. Best of luck as we move forward!
