@@ -48,6 +48,18 @@ This section will focus on the planning aspects of the project, including the pr
 ### 4. Development Phase
 In the Development Phase, we will actively implement the potato classification model, building on the plan created during the Planning Phase. This phase encompasses the following key elements:
 
+#### Development Phase
+Within the Development Phase, we will actively progress with the implementation of the potato disease classification model, building upon the blueprint formulated during the Planning Phase. This phase encompasses the following crucial elements:
+
+#### Dataset
+This section showcases images of various potato diseases, such as blight, scab, rot, and other ailments. These images are fundamental to our project, serving for classification, analysis, and visualization purposes. They are categorized by disease type for convenient accessibility and utilization in development, testing, and related project activities.
+
+#### Potato Disease Classification Jupyter Notebook
+The Jupyter Notebook contains code and guidelines for the deep learning-based classification of potato diseases. It covers different disease categories using image data. The notebook incorporates code snippets, explanations, and visual aids to assist users in creating and training potato disease classification models.
+
+#### Flask Source Code
+Here, you will find the Flask source code for the "Potato Disease Classification Project." This code includes route definitions, view functions, HTML templates, and Flask configurations. It is indispensable for comprehending how Flask powers the project's web application.
+
 #### Project Manual
 A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
 
