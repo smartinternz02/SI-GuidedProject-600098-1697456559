@@ -14,4 +14,8 @@ Solution Performance Drive Link: https://drive.google.com/file/d/1I4oImQeiJuNl4p
 ### Project Documentation 
 A comprehensive collection of records, reports, and documents that capture and organize information related to our project, including its objectives, plans, progress, financial aspects, risks, and outcomes.
 
+Project Documentation Drive Link: https://drive.google.com/file/d/1NkVDa5C-MUVfJ5_PjaCAJdkGbfsPLDML/view?usp=sharing
+
+Project Demo Video Drive Link: https://drive.google.com/file/d/1hnF6w1YgRrTLm2VuHH6EiiWiuCZrS9W5/view?usp=sharing
+
 Utilize these resources to ensure a smooth and successful final submission and performance phase of the Potato Classification Project.
