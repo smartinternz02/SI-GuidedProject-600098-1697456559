@@ -10,6 +10,8 @@ Within the Development Phase, we will actively progress with the implementation 
 ### Dataset
 This section showcases images of various potato diseases, such as early blight, late blight,and healthly. These images are fundamental to our project, serving for classification, analysis, and visualization purposes. They are categorized by disease type for convenient accessibility and utilization in development, testing, and related project activities.
 
+Dataset Link: https://www.kaggle.com/datasets/swastik2004/potato-leaf-diseases
+
 ### Potato Disease Classification Jupyter Notebook
 The Jupyter Notebook contains code and guidelines for the deep learning-based classification of potato diseases. It covers different disease categories using image data. The notebook incorporates code snippets, explanations, and visual aids to assist users in creating and training potato disease classification models.
 
